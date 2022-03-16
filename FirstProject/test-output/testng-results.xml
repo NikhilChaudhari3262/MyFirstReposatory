@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87" started-at="2022-03-16T18:31:55 IST" finished-at="2022-03-16T18:31:55 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="87" started-at="2022-03-16T18:31:55 IST" finished-at="2022-03-16T18:31:55 IST">
+      <class name="FirstPackage.LoginTest">
+        <test-method status="PASS" signature="TC5()[pri:0, instance:FirstPackage.LoginTest@7c29daf3]" name="TC5" duration-ms="15" started-at="2022-03-16T18:31:55 IST" finished-at="2022-03-16T18:31:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC5 -->
+        <test-method status="PASS" signature="TC2()[pri:1, instance:FirstPackage.LoginTest@7c29daf3]" name="TC2" duration-ms="0" started-at="2022-03-16T18:31:55 IST" description="Verify that system should not allow to login with valid credential" finished-at="2022-03-16T18:31:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method status="PASS" signature="TC1()[pri:2, instance:FirstPackage.LoginTest@7c29daf3]" name="TC1" duration-ms="0" started-at="2022-03-16T18:31:55 IST" description="Verify that user is able to login with valid credential" finished-at="2022-03-16T18:31:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="TC4()[pri:3, instance:FirstPackage.LoginTest@7c29daf3]" name="TC4" duration-ms="0" started-at="2022-03-16T18:31:55 IST" finished-at="2022-03-16T18:31:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+      </class> <!-- FirstPackage.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
